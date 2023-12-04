@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+body {
+    background-color: hsl(212.73deg 44% 95.1%);
+}
+
+.container {
+    margin-top: 80px;
+}
+
+.name {
+    font-size: 14px;
+    color: hsl(213.33deg 69.23% 97.45%);
+}
+
+.graduate {
+    font-size: 11px;
+    color: hsl(219.31deg 14.43% 60.59%);
+}
+
+
+
+
+.name2 {
+    font-size: 14px;
+    color: hsl(213.33deg 69.23% 97.45%);
+}
+
+.graduate2 {
+    font-size: 10px;
+    color: hsl(219.31deg 14.43% 60.59%);
+}
+
+
+.name3 {
+    font-size: 14px;
+    color: hsl(221.54deg 6.1% 41.76%);
+}
+
+.graduate3 {
+    font-size: 10px;
+    color: hsl(220deg 2.36% 75.1%);
+}
+
+
+
+
+.big-p {
+    font-size: 20px;
+    color: hsl(213.33deg 69.23% 97.45%);
+
+}
+
+.small-p {
+    font-size: 13px;
+    color: hsl(217.5deg 17.65% 73.33%);
+}
+
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
